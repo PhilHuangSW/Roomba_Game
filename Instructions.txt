@@ -1,0 +1,9 @@
+W / Space bar - Jump
+A / Left Arrow Key - Move Left
+D / Left Arrow Key - Move Right
+Shift key - Sprint
+
+*After Level 1*
+Double tap jump key (hold) - Hover
+
+ESC - Pause game
